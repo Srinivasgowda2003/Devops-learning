@@ -1,1 +1,18 @@
 echo "# Docker Notes" > Docker/README.md
+# Docker Commands
+
+## Basic
+docker --version
+docker ps
+docker images
+docker pull nginx
+docker run nginx
+
+## Build Image
+docker build -t myapp .
+
+## Stop / Remove
+docker stop <id>
+docker rm <id>
+docker rmi <image>
+
