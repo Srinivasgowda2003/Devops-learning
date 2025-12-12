@@ -1,1 +1,6 @@
 echo "# AWS Notes" > AWS/README.md
+what is cloud?
+cloud is server,networking, storage, software sharing with over internet 
+public cloud and private cloud 
+public cloud means cloud provider like awz,azure,gcp
+private cloud is using there own server inside the public cloud for there own organization 
