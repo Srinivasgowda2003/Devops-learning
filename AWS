@@ -1,10 +1,30 @@
-echo "# AWS Notes" > AWS/README.md
-what is cloud?
-cloud is server,networking, storage, software sharing with over internet 
-public cloud and private cloud 
-public cloud means cloud provider like awz,azure,gcp
-private cloud is using there own server inside the public cloud for there own organization 
-there are 3 types of cloud 
-infrastructure as a service (vpc,s3,ec2)
-software as a service (where we write a code and deployment)
-platform as a service (ready to use no need to coding just use it)
+# AWS Notes
+
+## What is Cloud?
+Cloud is on-demand access to servers, networking, storage, and software over the internet.
+
+## Types of Cloud
+- **Public Cloud** – cloud providers like AWS, Azure, GCP  
+- **Private Cloud** – your own cloud infrastructure  
+- **Hybrid Cloud** – mix of public + private  
+
+## Cloud Service Models
+### 1. Infrastructure as a Service (IaaS)
+You manage OS, applications.  
+Examples: EC2, VPC, EBS, S3
+
+### 2. Platform as a Service (PaaS)
+You manage only code.  
+Examples: Elastic Beanstalk, RDS (partly), Lambda (FaaS)
+
+### 3. Software as a Service (SaaS)
+You just use the software, no management needed.  
+Examples: Gmail, Salesforce
+
+## Basic AWS Services
+- **EC2** – virtual machines  
+- **S3** – storage  
+- **VPC** – networking  
+- **IAM** – identity & access  
+- **RDS** – managed database  
+- **Lambda** – serverless compute  
