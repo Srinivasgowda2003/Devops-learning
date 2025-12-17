@@ -28,3 +28,11 @@ Examples: Gmail, Salesforce
 - **IAM** – identity & access  
 - **RDS** – managed database  
 - **Lambda** – serverless compute  
+#  create a vpc 
+first we create a aws account for free tier 
+search vpc instance create instance 
+add private and public subnet 
+security groups for like firewall
+load balancer for loading the traffic 
+Nate gateway for who will allows and out
+and internet gateway 
